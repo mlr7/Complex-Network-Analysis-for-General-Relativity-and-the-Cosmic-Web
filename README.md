@@ -28,6 +28,14 @@ Complex networks from classical to quantum, https://www.nature.com/articles/s420
 
 (find network-General-Relativity page from few years ago)
 
+https://pypi.org/project/geomstats/
+
+https://pypi.org/project/networkx/
+
+https://pypi.org/project/igraph/
+
+NEFI: Python tool created to extract networks from images. https://nefi.mpi-inf.mpg.de/guide.php  https://github.com/05dirnbe/nefi
+
 ## Dec-2023 Links
 
 Alexander, Stephon, William J. Cunningham, Jaron Lanier, Lee Smolin, Stefan Stanojevic, Michael W. Toomey, and Dave Wecker. "The autodidactic universe." arXiv preprint arXiv:2104.03902 (2021).
